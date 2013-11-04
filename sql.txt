@@ -1,0 +1,8 @@
+SELECT  MAX(v.VendorName) as VendorName,
+	SUM(s.UnitPrice * s.Quantity) as TotalIncomes		
+		
+FROM [Supermarket].[dbo].[SaleByDates] s
+	JOIN Products p ON s.ProductId = p.ID
+	JOIN Vendors v ON p.Vendor_ID = v.ID
+WHERE YEAR(s.[Date]) = 2013 AND Month(s.[Date]) = 07 AND Day(s.[DATe]) = 20
+GROUP BY  v.VendorName

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sales>
+	<sale vendor="Nestle Sofia Corp.">
+		<expenses month="Jul-2013">30.00</expenses>
+		<expenses month="Aug-2013">40.00</expenses>
+	</sale>
+	
+	<sale vendor="Targovishte Bottling Company Ltd.">
+		<expenses month="Jul-2013">200.00</expenses>
+		<expenses month="Aug-2013">180.00</expenses>
+	</sale>
+	
+	<sale vendor="Zagorka Corp.">
+		<expenses month="Jul-2013">120.00</expenses>
+		<expenses month="Aug-2013">180.00</expenses>
+	</sale>
+	
+	<sale vendor="Aro Ltd.">
+		<expenses month="Jul-2013">234.00</expenses>
+		<expenses month="Aug-2013">977.00</expenses>
+	</sale>
+	
+	<sale vendor="Orbit Ltd.">
+		<expenses month="Jul-2013">137.00</expenses>
+		<expenses month="Aug-2013">197.00</expenses>
+	</sale>
+	
+	<sale vendor="Coca-Cola Ltd.">
+		<expenses month="Jul-2013">120.00</expenses>
+		<expenses month="Aug-2013">180.00</expenses>
+	</sale>
+	
+	<sale vendor="Pepsi Ltd.">
+		<expenses month="Jul-2013">298.00</expenses>
+		<expenses month="Aug-2013">138.00</expenses>
+	</sale>
+	
+	<sale vendor="Mc Donalds  Ltd.">
+		<expenses month="Jul-2013">923.00</expenses>
+		<expenses month="Aug-2013">678.00</expenses>
+	</sale>
+	
+	<sale vendor="Jack Daniels  Ltd.">
+		<expenses month="Jul-2013">345.00</expenses>
+		<expenses month="Aug-2013">234.00</expenses>
+	</sale>
+	
+	<sale vendor="Jim Beam Ltd.">
+		<expenses month="Jul-2013">190.00</expenses>
+		<expenses month="Aug-2013">320.00</expenses>
+	</sale>
+	
+	<sale vendor="Jagermeister Ltd.">
+		<expenses month="Jul-2013">124.00</expenses>
+		<expenses month="Aug-2013">765.00</expenses>
+	</sale>
+	
+	<sale vendor="Peshtera AD">
+		<expenses month="Jul-2013">345.00</expenses>
+		<expenses month="Aug-2013">123.00</expenses>
+	</sale>
+	
+	<sale vendor="Karnobat  Ltd.">
+		<expenses month="Jul-2013">234.00</expenses>
+		<expenses month="Aug-2013">987.00</expenses>
+	</sale>
+	
+	<sale vendor="Carlsberg Ltd.">
+		<expenses month="Jul-2013">134.00</expenses>
+		<expenses month="Aug-2013">899.00</expenses>
+	</sale>
+	
+	<sale vendor="Milk Sofia  Ltd.">
+		<expenses month="Jul-2013">1237.00</expenses>
+		<expenses month="Aug-2013">876.00</expenses>
+	</sale>
+	
+	<sale vendor="Tefal  Ltd.">
+		<expenses month="Jul-2013">233.00</expenses>
+		<expenses month="Aug-2013">687.00</expenses>
+	</sale>
+	
+	<sale vendor="Clever Ltd.">
+		<expenses month="Jul-2013">345.44</expenses>
+		<expenses month="Aug-2013">897.00</expenses>
+	</sale>
+	
+	<sale vendor="Fantastico Ltd.">
+		<expenses month="Jul-2013">455.00</expenses>
+		<expenses month="Aug-2013">348.00</expenses>
+	</sale>
+	
+	<sale vendor="Devin">
+		<expenses month="Jul-2013">620.00</expenses>
+		<expenses month="Aug-2013">535.00</expenses>
+	</sale>
+	
+	<sale vendor="Adidas">
+		<expenses month="Jul-2013">320.00</expenses>
+		<expenses month="Aug-2013">380.00</expenses>
+	</sale>
+</sales>
